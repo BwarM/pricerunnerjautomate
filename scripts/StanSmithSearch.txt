@@ -1,0 +1,24 @@
+Click "{ImageFolder}/14604606414832.png"
+Wait 500
+Write "stan smith"
+Click "{ImageFolder}/14604606415423.png"
+Wait 500
+Click "{ImageFolder}/14604606415664.png"
+MouseScroll 4
+Click "{ImageFolder}/14604606416015.png"
+Wait 500
+Click "{ImageFolder}/14604606416376.png"
+MouseScroll 8
+Click "{ImageFolder}/14604606416817.png" 172 97 56 16
+Click "{ImageFolder}/14604606417248.png" 184 91 85 24
+Wait 500
+Click "{ImageFolder}/14604606417719.png"
+MouseScroll 12
+Click "{ImageFolder}/146046064180410.png" 179 86 43 19
+Click "{ImageFolder}/146046064183911.png" 188 96 90 26
+Wait 500
+Click "{ImageFolder}/146046064187712.png"
+Wait 500
+Click "{ImageFolder}/14604610939021.png" 144 88 103 23
+Click "{ImageFolder}/146046064191613.png" 185 97 37 16
+Wait 2000

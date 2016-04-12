@@ -1,0 +1,7 @@
+Begin Pricerunner
+StopIfFailed No
+WaitStableScreen Yes
+End
+Call PriceRunnerStartUp.txt
+Call StanSmithSearch.txt
+Timestamp
